@@ -1,0 +1,12 @@
+{
+  "name": "masterclass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo hello welcome to class"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
